@@ -22,7 +22,7 @@
 <h4>-	Parasitosis y diarreas.</h4>
 <p>La parasitosis es causada por diferentes tipos de parásitos, afecta principalmente a los niños de 1 a 5 años. Son transmitidos por medio de alimentos y aguas contaminadas. Causa diarreas, sangrado intestinal, pérdida del apetito, pérdida de peso, desnutrición y anemia. [*] </p>
 <p>En el Perú, el 50% de niños en nuestro país durante el 2017 sufren de parasitosis, sobre todo en la selva, según el secretario del Colegio Médico del Perú, Raúl Urquizo Aréstegui. </p>
-<h3>PERÚ: EVOLUCIÓN DE VIVIENDAS CON FUENTE DE AGUA PARA BEBER POR RED PÚBLICA 1/, SEGÚN ÁREA DE RESIDENCIA, 1991-1992, 1996, 2000, 2004-2006, 2007-2008, 2009-2017 (Porcentaje).</h3>
+<h5>PERÚ: EVOLUCIÓN DE VIVIENDAS CON FUENTE DE AGUA PARA BEBER POR RED PÚBLICA 1/, SEGÚN ÁREA DE RESIDENCIA, 1991-1992, 1996, 2000, 2004-2006, 2007-2008, 2009-2017 (Porcentaje).</h5>
 
 <center>
   <img src="images/evolucion.jpg" alt="" class="img-fluid img-rounded">
@@ -31,14 +31,14 @@
 <h4>-	Regulación de la hepcidina. </h4> 
 <p>La regulación del hierro depende de la hepcidina, pequeña hormona peptídica que se produce fundamentalmente por los hepatocitos en respuesta a la cantidad de hierro circulante, ya que cuando la concentración de la hepcidina aumenta la absorción del hierro disminuye. 
 La hepcidina puede aumentar por las infecciones respiratorias agudas (IRA). La prevalencia de las IRA en el Perú, en niños, por edades es de 6 a 11 meses (17,4%) y de 12 a 23 meses (17,1%). El porcentaje de niñas y niños en las dos semanas precedentes a la Encuesta fue 14,6% en el 2017.</p>
-<h3>PERÚ: PREVALENCIA Y TRATAMIENTO DE INFECCIONES RESPIRATORIAS AGUDAS (IRA) EN NIÑAS Y NIÑOS MENORES DE CINCO AÑOS DE EDAD, SEGÚN EDAD EN MESES, 2017 (Porcentaje)</h3>
+<h5>PERÚ: PREVALENCIA Y TRATAMIENTO DE INFECCIONES RESPIRATORIAS AGUDAS (IRA) EN NIÑAS Y NIÑOS MENORES DE CINCO AÑOS DE EDAD, SEGÚN EDAD EN MESES, 2017 (Porcentaje)</h5>
 <center>
   <img src="images/rosa.jpg" alt="" class="img-fluid img-rounded">
  </center>
  
 <h4>-	Prematuridad </h4>
 <p>Después de que un niño nace prematuro existe una mayor necesidad de aporte férrico como consecuencia de la falta de depósitos y del aumento de necesidades por la tasa de crecimiento, y cuando esto coincide con un aporte insuficiente de hierro en la dieta se llega a producir anemia ferropénica.</p>
-<h3>Porcentaje de partos en el Perú (meses)</h3> 
+<h5>Porcentaje de partos en el Perú (meses)</h5> 
  <center>
   <img src="images/gestar.jpg" alt="" class="img-fluid img-rounded">
  </center>
