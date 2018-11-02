@@ -1,3 +1,8 @@
+<h1>Mapa Conecptual</h1>
+<center>
+  <img src="images/mapa.PNG" alt="" class="img-fluid img-rounded">
+ </center>
+
 <h1> Estado del Arte </h1>
 <h2>Estado del Arte del Grupo Objetivo (Niños en el Perú): Tecnológico (Productos y Servicios) y Temático</h2>
 
