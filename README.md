@@ -1,4 +1,5 @@
 <h1> Estado del Arte </h1>
+<h3> Por paises: </h3>
 <p>a)	En Chile fue implementado un Laboratorio de Micronutrientes para obtener leche fortificada con hierro, eficaz para prevenir la ferropenia en lactantes y preescolares. El Laboratorio de Micronutrientes esta formado por 4 laboratorios: Laboratorio de Micro minerales y Vitaminas, Laboratorio de Flúor, Laboratorio de Antioxidantes, Laboratorio de Enfermedad Celiaca. El enriquecimiento de los alimentos es uno de los métodos para prevenir la carencia de hierro en la población. Su principal ventaja es que el consumo de tales alimentos no requiere una conducta activa por parte del sujeto; la leche y los cereales son los alimentos enriquecidos más utilizados en lactantes (Walter et al., 1993, 1998 y 1990). En 1974-1975, en el único estudio realizado en Chile de una muestra representativa nacional, la prevalencia de la anemia en niños menores de 2 años fue del 20 por ciento (Ríos et al., 1983). Estudios posteriores llevados a cabo con muestras no representativas mostraron una prevalencia de la anemia similar (Olivares et al., 2000). El Programa Nacional de Alimentación Complementaria (PNAC), administrado por el Ministerio de Salud, proporciona gratuitamente 2 kg de leche en polvo entera al mes a los lactantes menores de 2 años (actualmente solo a los menores de 18 meses) y 1 kg al mes a las mujeres embarazadas. El programa cubre aproximadamente el 70 por ciento de los lactantes del país. Se estudió la posibilidad de enriquecer la leche semidescremada (12 por ciento materias grasas) en polvo. El PNAC suministra este producto con un contenido de 15 mg de Fe en forma de sulfato ferroso por 100 g de leche en polvo. Dos kilos de leche suministrados mensualmente aportan una ingesta diaria promedio de 10 mg de hierro.  La eficacia de esta leche se probó durante un periodo de estudio de terreno de lactantes cuyo peso al nacimiento era superior a los 2 500 g y que habían sido destetados espontáneamente antes de los 3 meses de edad. Doscientos setenta y ocho niños recibieron leche enriquecida a partir de los 3 meses, y 232 niños recibieron leche sin enriquecer suministrada por el PNAC. Se observó que después de 12 meses la prevalencia de anemia fue del 7 por ciento en el grupo de niños que había consumido constantemente leche enriquecida, y del 35,3 por ciento en el grupo de control, que había consumido leche no enriquecida. Aunque el enriquecimiento de la leche se asoció a un mejoramiento del estado de nutrición férrica, no se consiguió erradicar la anemia; el PNAC sustituyo la leche semidescremada por leche entera (con 26 % de materia grasa). Aunque se demostró que la leche enriquecida con hierro y ácido ascórbico erradicaba la anemia ferropénica, esta leche no fue introducida en el PNAC debido a su mayor costo (+10 a 15 por ciento) en razón del tiempo extra requerido para el proceso de acidificación, la necesidad de utilizar envases de hojalata sellados al vacío, y la falta de decisión política de las autoridades. A pesar de que el costo del enriquecimiento era modesto, los fondos disponibles fueron utilizados para atender problemas de salud más urgentes. Los economistas no estaban convencidos de la relación costo-beneficio positiva del control de la ferropenia, ya que muchos de sus efectos deletéreos no son fácilmente evaluables desde un punto de vista económico. Otra barrera era el desconocimiento de algunos profesionales de la salud, planificadores y autoridades gubernamentales de los efectos adversos de la carencia de hierro; años más tarde se produjo una leche en polvo completa enriquecida con 10 mg de Fe (en forma de sulfato ferroso), 70 mg de ácido ascórbico, 5 mg de Zn y 0,5 mg de Cu por 100 g. Esta leche fue almacenada en bolsas trilaminadas con un barrido de nitrógeno. La biodisponibilidad de hierro de esta leche fue del 12 por ciento;  la leche no enriquecida del PNAC fue reemplazada por esta leche. Los resultados preliminares de la eficacia de esta intervención han puesto de manifiesto una reducción del 66 por ciento de la prevalencia de la anemia de los lactantes( http://www.fao.org/tempref/docrep/fao/005/y8346m/y8346m08.pdf )</p>
 
 <p>
@@ -17,6 +18,99 @@
 <p>En el Perú, este aplicativo podría utilizarse en 7 mil establecimientos de salud y beneficiar a 150 mil médicos, enfermeras y nutricionistas en su trabajo de la lucha contra la anemia. Este aplicativo también podría utilizarse en continentes como África y Asia, ya que la información que tomaron al momento de desarrollar la herramienta, utilizó como datos los de la Organización Mundial de la Salud.</p>
  <center>
   <img src="images/upc.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+ 
+<h3>Estado del Arte del Grupo Objetivo (Niños en el Perú): Tecnológico (Productos y Servicios) y Temático</h3>
+
+<h4>Forticao</h4>
+<p>Es una marca, que desarrolla productos con evidencia científica gestionando el financiamiento en entidades como USAID, BID (Innovate Perú) y asistencia técnica de expertos entre ellos la Universidad Peruana Cayetano Heredia-UPCH.</p>
+<p>Es una marca, que le agrega valor al grano de CACAO, transformándolo en productos para el mercado farmacéutico, estos son:</p>
+<p>- Forticao polvo (cocoa fortificada con hierro heminico)</p>
+<p>- Forticao Chocolate (chocolate de leche fortificado con hierro hemínico)</p>
+<p>Ambas presentaciones son ALIMENTOS FORTIFICADOS, siendo esta estrategia recomendada por la Organización Mundial de la Salud-OMS, para luchar contra la anemia nutricional y la desnutrición.</p>
+ <center>
+  <img src="images/forticao.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Iron Fish</h4>
+<p>El Lucky Iron Fish es una pequeña herramienta de cocina de hierro que infunde a tus comidas una cantidad saludable de hierro natural para ayudar a prevenir la deficiencia de hierro y la anemia. Es fácil de usar y proporciona una fuente natural de hierro que es perfecta para todos, especialmente para aquellos con una mayor necesidad de hierro.</p>
+ <center>
+  <img src="images/iron.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Arroz Fortificado</h4>
+<p>El arroz representa un vehículo efectivo mejorar el consumo de hierro, especialmente en las mujeres en edad fértil y la población infantil, sin alterar los hábitos de alimentación. Esta estrategia ya se implementó en países como Costa Rica, India y México.</p>
+<p>La fórmula de arroz fortificado ha sido elaborada por el Centro Nacional de Alimentación y Nutrición (Cenan), del Instituto Nacional de Salud (INS), y contiene diez micronutrientes (vitamina A, B1, B3, B6, B12, D, E, ácido fólico, hierro y zinc).</p>
+<p>DATO: El arroz es el cereal que más se consume en el Perú, estimándose un aproximado de 140 gramos en los adultos y 36 gramos en niños de 12 a 36 meses de edad.</p>
+ <center>
+  <img src="images/arr.jpeg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Harinas Fortificadas con Hierro</h4>
+<p>Desde el 2006, en el Perú es obligatoria la fortificación de la harina de trigo con micronutrientes como el hierro. La Organización Mundial de la Salud (OMS) considera que la fortificación de los alimentos es una intervención de salud pública efectiva que conduce a una mejora rápida del estado nutricional de las personas.</p>
+ <center>
+  <img src="images/har.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Prevención</h4>
+<p>La Endes 2014, revela que en 6 regiones del sur existen más de 230 mil niños con anemia y desnutrición. Para combatir estos males el Estado entrega, a través de los centros de salud, multimicronutrientes o Chispitas.Madres pueden prevenir la anemia y desnutrición en sus hijos, dándoles a diario un sobre de "chispitas".</p>
+ <center>
+  <img src="images/chispitas.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Aplicativo Móvil</h4>
+<p>El Ministerio de Salud lanzó el aplicativo móvil “App de Lucha y Movilización contra la Anemia (ALMA)” para brindar a los padres de familia información personalizada sobre cada uno de sus hijos menores de 36 meses a fin de prevenir y controlar esta enfermedad.</p>
+<p>“Esta aplicación móvil permitirá a los padres de familia hacer el seguimiento de las fechas clave para el control de crecimiento de sus hijos, práctica de la lactancia materna, el control de vacunas, el inicio de consumo de gotitas de hierro, el descarte de anemia, el inicio de las comidas, entrega de micronutrientes, así como el tratamiento y control de la anemia y fechas de sus controles de hemoglobina”, manifestó la ministra de Salud, Silvia Pessah.</p>
+ <center>
+  <img src="images/app_anemia.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Padron nominal</h4>
+<p>Acciones para terminar con la desnutrición y anemia infantil”. Abordará la importancia del Padrón Nominal, como instrumento de monitoreo de la situación de la primera infancia y poder controlar y reducir la anemia infantil.</p>
+ <center>
+  <img src="images/padron_nominal.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Punto de corte</h4>
+<p>Según la OMS niños por debajo de 11g/dL ; sin embargo esta evaluación se hizo en 1988, tuvo que haber sido revisada en el 2012 pero hasta el día de hoy no se ha evaluado.</p>
+ <center>
+  <img src="images/punto_corte.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>El 50% de Anemias son Ferropenicas</h4>
+<p>Este es un dato proporcionado por la OMS ,que no necesariamente aplica en el Perú, no existe estudios que nos indique en que porcentaje es ferropenica, ni tampoco de que tipo: leve ,moderada o severa.</p>
+ <center>
+  <img src="images/a.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Hepcidina</h4>
+<p>Un estudio hecho en el 2007 revelo que la absorción del hierro en el duodeno esta controlado por la hepcidina, el cual puede evitar su ingreso a la sangre por diversos motivos, lo que trae como consecuencia diagnostico de anemia.</p>
+ <center>
+  <img src="images/hepcidicina.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Documento Técnico Reducción de la Anemia</h4>
+<p>Hecho el 2017 nos indica la serie de protocolos con respecto a la anemia: diagnostico y tratamiento. Ademas de todos los detalles especializados a tener en cuenta.</p>
+ <center>
+  <img src="images/documento_tecnico.png" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Plan Multisectorial Midis Lucha Contra la Anemia</h4>
+<p>Plan firmado por 17 ministerios partiendo de la base que la anemia es un problema multisectorial.</p>
+ <center>
+  <img src="images/plan_multisectorial.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Jarabe Sulfato Ferroso</h4>
+<p>Forma del mineral hierro que se usa para tratar la anemia que resulta de tener concentraciones bajas de hierro en la sangre. La anemia es una afección en la que el número de glóbulos rojos es bajo. El sulfato ferroso es un tipo de antianémico y de suplemento alimentario.</p>
+ <center>
+  <img src="images/jarabe.jpg" alt="" class="img-fluid img-rounded">
+ </center>
+
+<h4>Sulfato Ferroso en Gotas</h4>
+<p>Tiene los mismos alcances que el jarabe solo que esta destinado a los niños de 4 a 6 meses de edad.</p>
+ <center>
+  <img src="images/gotas.jpg" alt="" class="img-fluid img-rounded">
  </center>
 
 <h2>ETIOLOGÍA DE LA ANEMIA FERROPÉNICA </h2>
