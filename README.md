@@ -20,7 +20,7 @@
   <img src="images/upc.jpg" alt="" class="img-fluid img-rounded">
  </center>
  
-<h3>Estado del Arte del Grupo Objetivo (Niños en el Perú): Tecnológico (Productos y Servicios) y Temático</h3>
+<h2>Estado del Arte del Grupo Objetivo (Niños en el Perú): Tecnológico (Productos y Servicios) y Temático</h2>
 
 <h4>Forticao</h4>
 <p>Es una marca, que desarrolla productos con evidencia científica gestionando el financiamiento en entidades como USAID, BID (Innovate Perú) y asistencia técnica de expertos entre ellos la Universidad Peruana Cayetano Heredia-UPCH.</p>
