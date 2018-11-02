@@ -1,4 +1,4 @@
-<h1>Mapa Conecptual</h1>
+<h1>Mapa Conceptual</h1>
 <center>
   <img src="images/mapa.PNG" alt="" class="img-fluid img-rounded">
  </center>
